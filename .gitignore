@@ -6,10 +6,9 @@
 **/DerivedDataCache
 **/Intermediate
 **/Saved
-
 #######################
 #VS Generated Files   #
 #######################
+*.VC.opendb
 *.VC.db
-
 **/Content/StarterContent/
